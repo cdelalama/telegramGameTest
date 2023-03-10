@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "grammy": "^1.15.1",
+    "nodemon": "^2.0.21"
+  },
+  "name": "telegramgametest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc -w --skipLibCheck",
+    "dev": "nodemon src/telegramGameTest.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdelalama/telegramGameTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdelalama/telegramGameTest/issues"
+  },
+  "homepage": "https://github.com/cdelalama/telegramGameTest#readme",
+  "description": ""
+}
